@@ -75,7 +75,7 @@
     "node-gyp": "^5.0.3",
     "q": "^1.5.1",
     "rlp": "^2.2.3",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "supports-color": "^6.1.0",
     "web3": "1.0.0-beta.52",
     "web3-eth-accounts": "1.0.0-beta.52"
